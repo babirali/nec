@@ -51,3 +51,8 @@
   background-color: #fff;
   border-bottom: 1px solid #5fa54926;
 }
+
+.login-form {
+  padding: 20px 20px;
+  background-color: #f3f3f4;
+}

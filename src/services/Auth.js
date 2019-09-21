@@ -1,8 +1,5 @@
-import React from "react";
-import { Subject } from "rxjs";
 import { toast } from "react-toastify";
 import { spinnerService } from "../services/Spinner";
-import { Redirect } from "react-router";
 import axios from "axios";
 
 export const authService = {
